@@ -1,8 +1,8 @@
 # PSYC 201: Social Psychology Syllabus Spring 2018
 
-### Instructor: Patrick Sweeney
+## Instructor: Patrick Sweeney
 
-#### Readings
+### Readings
 
 **Week 1**
 Milgram, S. *The Individual in a Social World*
