@@ -1,6 +1,7 @@
 # PSYC 201: Social Psychology Syllabus Spring 2018
 
 ## Instructor: Patrick Sweeney
+#### This instructor is a Digital Initiatives Technology Fellow. Various technologies will be included in the coursework. 
 
 ### Readings
 
